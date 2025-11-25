@@ -114,7 +114,7 @@ DASVS defines three verification levels:
 
 ## About AFINE
 
-AFINE is a Poland-based cybersecurity company specializing in offensive security, penetration testing, and security research. With over five years of experience in desktop application security, AFINE works with major enterprise clients, including banks, financial institutions, and critical infrastructure providers.
+AFINE is a Poland-based cybersecurity company specializing in offensive security, penetration testing, and security research. With ten years of experience in desktop application security, AFINE works with major enterprise clients, including banks, financial institutions, and critical infrastructure providers.
 
 Visit: [www.afine.com](https://www.afine.com)
 
