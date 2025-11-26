@@ -1,4 +1,4 @@
-# DASVS - Desktop Application Security Verification Standard
+# Desktop Application Security Verification Standard - DASVS
 
 *This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0//)*
 
@@ -6,7 +6,7 @@
 
 *The comprehensive security standard for desktop applications.*
 
-## Introduction
+## Introduction to DASVS
 
 The primary aim of the Desktop Application Security Verification Standard (DASVS) Project is to provide an open application security standard for desktop applications across all platforms and architectures.
 
